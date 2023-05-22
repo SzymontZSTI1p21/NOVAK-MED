@@ -3,6 +3,5 @@
 ## Autorzy
 - Aleksandra Orłowska
 - Piotr Szymocha
-- Zbigniew Kucharski
-- Sewerynk Krawczyk
+- Seweryn Krawczyk
 - Szymon Turkiewicz
