@@ -2,7 +2,7 @@
 
 NOVAKMED to aplikacja umożliwiająca prostą i wygodną rejestrację wizyt medycznych w prywatnej przychodni. Aplikacja zapewnia pacjentom łatwy dostęp do lekarzy specjalistów oraz umożliwia zarządzanie harmonogramami wizyt.
 
-Funkcje aplikacji
+## Funkcje aplikacji
 <pre>
 Rejestracja pacjentów: Pacjenci mogą zarejestrować się w aplikacji, tworząc swoje konta i wprowadzając swoje dane osobowe.
 
@@ -12,7 +12,7 @@ Umawianie wizyt: Pacjenci mogą wybrać lekarza i dostępne terminy wizyt, a nas
 
 Przegląd historii wizyt: Pacjenci mają dostęp do historii swoich wizyt, wraz z informacjami o lekarzach, datach wizyt i wprowadzonymi notatkami.
 </pre>
-Technologie
+## Technologie
 
 Aplikacja NOVAKMED została zbudowana przy użyciu następujących technologii:
 <pre>
@@ -21,7 +21,7 @@ Backend: PHP
 Baza danych: MySQL
 </pre>
 
-Autorzy
+## Autorzy
 
 <pre>
 Aleksandra Orłowska 
