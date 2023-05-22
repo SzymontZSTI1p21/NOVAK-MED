@@ -14,21 +14,16 @@ Przegląd historii wizyt: Pacjenci mają dostęp do historii swoich wizyt, wraz 
 </pre>
 ## Technologie
 
-Aplikacja NOVAKMED została zbudowana przy użyciu następujących technologii:
-<pre>
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
-Baza danych: MySQL
-</pre>
+### Aplikacja NOVAKMED została zbudowana przy użyciu następujących technologii:
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Baza danych: MySQL
 
 ## Autorzy
-
-<pre>
-Aleksandra Orłowska 
-Piotr Szymocha 
-Seweryn Krwaczyk 
-Szymon Turkiewicz 
-Zbigniew Kucharski
-</pre>
+-Aleksandra Orłowska 
+-Piotr Szymocha 
+-Seweryn Krwaczyk 
+-Szymon Turkiewicz 
 
 Dziękujemy za zainteresowanie naszym projektem
