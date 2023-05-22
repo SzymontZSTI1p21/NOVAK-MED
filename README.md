@@ -28,6 +28,7 @@ Aleksandra Orłowska
 Piotr Szymocha 
 Seweryn Krwaczyk 
 Szymon Turkiewicz 
+Zbigniew Kucharski
 </pre>
 
 Dziękujemy za zainteresowanie naszym projektem
