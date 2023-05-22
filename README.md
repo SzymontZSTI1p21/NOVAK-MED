@@ -17,9 +17,9 @@ NOVAKMED to aplikacja umożliwiająca prostą i wygodną rejestrację wizyt medy
 - Baza danych: MySQL
 
 ## Autorzy
--Aleksandra Orłowska 
--Piotr Szymocha 
--Seweryn Krwaczyk 
--Szymon Turkiewicz 
+- Aleksandra Orłowska 
+- Piotr Szymocha 
+- Seweryn Krwaczyk 
+- Szymon Turkiewicz 
 
-Dziękujemy za zainteresowanie naszym projektem
+# Dziękujemy za zainteresowanie naszym projektem!
