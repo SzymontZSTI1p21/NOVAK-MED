@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    header{
+        background-color: #00B0F0;
+        width: 100%;
+        height: 10vw;
+    }
+    
+    h1{
+        position: relative;
+        font-size: 5vw;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: white;
+        top: 2vw;
+        padding-left: 2vw;
+    }
+
+    
+   .naglowekCos{
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    top: -4vw;
+    padding-right:1vw;
+}
+
+.logout{
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    top: -3vw;
+    padding-right:7vw;
+    font-weight: bolder;
+    font-size: 1vw;
+}
+
+.wizyty{
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    top: -2vw;
+    padding-right:7vw;
+    font-weight: bolder;
+    font-size: 1vw;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    background-color: #00B0F0;
+    width: 100%;
+    height: 10vw;
+}
+
+h1 {
+    position: relative;
+    font-size: 5vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    top: 2vw;
+    padding-left: 2vw;
+}
+
+.naglowekCos {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    top: -4vw;
+    padding-right: 1vw;
+}
+
+.logout {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    top: -3vw;
+    padding-right: 7vw;
+    font-weight: bolder;
+    font-size: 1vw;
+    text-decoration: none;
+    color: white;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+.wizyty {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    top: -2vw;
+    padding-right: 6.4vw;
+    font-weight: bolder;
+    font-size: 1vw;
+    text-decoration: none;
+    color: white;
+}
+
+.wizyty:hover, .logout:hover{
+    color: #333;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto; 
+    margin-top: 4vw;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 3vw;
+    margin-bottom: 10px;
+}
+
+.powrot{
+    font-weight: bolder;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    height: 1.4vw;
+    background-color: #00B0F0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-weight: bolder;
+    bottom: 0;
+  }
+  
+  footer > p {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  
