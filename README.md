@@ -23,3 +23,4 @@ NOVAKMED to aplikacja umożliwiająca prostą i wygodną rejestrację wizyt medy
 - Szymon Turkiewicz 
 
 # Dziękujemy za zainteresowanie naszym projektem!
+[Link do index.php](./index.php)
